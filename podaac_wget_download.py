@@ -55,8 +55,8 @@ path_to_save='/home/matthew/Documents/Python_scripts/Automating_downloads/Github
 my_url = " https://podaac-tools.jpl.nasa.gov/drive/files/allData/ghrsst/data/GDS2/L4/GLOB/JPL/MUR/v4.1/"
 short_name = "-JPL-L4_GHRSST-SSTfnd-MUR-GLOB-v02.0-fv04.1"
 
-user = 'mcarr03 '
-password = '4MlbumJX2WF0NHgme7@ '
+user = ''
+password = ''
 
 #Creating date range
 dates = pd.date_range(start=start_date,end=end_date,freq='D')
