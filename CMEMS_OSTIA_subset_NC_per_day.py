@@ -65,8 +65,8 @@ mydates = pd.date_range(datevector1, datevector2).tolist()
 varList = ['analysed_sst']
 
 # CMEMS username and password  
-usrname = 'mcarr'
-passwd = '7WfaUsfyfE'
+usrname = ''
+passwd = ''
 
 # service id provided by cmems website (--service-id)
 serv_id = 'SST_GLO_SST_L4_REP_OBSERVATIONS_010_011-TDS'
