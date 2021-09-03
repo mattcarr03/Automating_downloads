@@ -4,4 +4,4 @@ This repository was created as a training guide to download large amounts of sea
 
 The subset_JPL.py script was taken from https://podaac.jpl.nasa.gov/forum/viewtopic.php?f=85&t=219 and incuded in this repository as it was part of the pratical demostration. 
 
-For any question or queries please email: md.carr@seaon.nrf.ac.za
+For any question or queries please email: md.carr@saeon.nrf.ac.za
