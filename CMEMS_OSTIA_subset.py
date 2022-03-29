@@ -51,8 +51,8 @@ endDate =   '2000-01-01 12:00:00'
 varList = ['analysed_sst']
 
 # CMEMS username and password  
-usrname = ''
-passwd = ''
+usrname = 'yourusername'
+passwd = 'yourpassword'
 
 # service id provided by cmems website (--service-id)
 serv_id = 'SST_GLO_SST_L4_REP_OBSERVATIONS_010_011-TDS'
